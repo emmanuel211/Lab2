@@ -1,0 +1,27 @@
+grade
+	acount
+	bcount
+	ccount
+	dcount
+	fcount  all = 0
+	
+
+	prompt for input
+	
+
+	while input is not equal to EOF
+	    if grade is a
+	        acount++
+	    if grade is b
+	        bcount++
+	    if grade is c
+	        ccount++
+	    if grade is d
+	        dcount++
+	    if grade is f
+	        fcount++
+	    else
+	        prompt that it is inccorrect input
+	
+
+	display totals for each grade
